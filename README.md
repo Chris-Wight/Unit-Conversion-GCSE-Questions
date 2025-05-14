@@ -1,5 +1,5 @@
 # GCSE-MATHS Projects - Homepage
-> Create with HTML/CSS/JAVASCRIPT
+> Created with HTML/CSS/JAVASCRIPT
 
 ## Project Info
 Goal of this project was to make a one page website that contains certain unit conversion facts that are presented as questions.
