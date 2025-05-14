@@ -1,6 +1,4 @@
 # GCSE-MATHS Projects - Homepage
-> This project involved creating a react SPA, which utilized different API calls and styled components.
-<!-- -->
 > Create with HTML/CSS/JAVASCRIPT
 
 ## Project Info
