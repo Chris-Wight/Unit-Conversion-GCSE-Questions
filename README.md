@@ -4,10 +4,11 @@
 ## Project Info
 Goal of this project was to make a one page website that contains certain unit conversion facts that are presented as questions.
 Its use is to provide others with help in remembering these facts for GCSE Maths.
-It features a reset button and a reverse button to alow the person to answer the conversion both ways.
+It features a reset button and a reverse button to alow the person to answer the conversion both ways, it also has a score
+feature and hint system to help give an example. However as these are conversion facts, the hints will all ways just give an example of the conversion itself as its a test of memory for the student.
 
 
-##  Project Includes
+##   Project Utilizes  
 * HTML
 * CSS
 * JavaScript
